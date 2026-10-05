@@ -1,3 +1,4 @@
+Research Question: How do health and lifestyle indicators (High Blood Pressure, High Cholesterol, Smoking, Fruit Consumption, Body Mass Index, Age) affect the likelihood of an individual having Diabetes (or Prediabetes)?
 # Diabetes Risk Analysis – Health & Lifestyle
 
 ## Visualisations
